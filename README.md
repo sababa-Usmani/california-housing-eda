@@ -15,6 +15,7 @@ This project performs Exploratory Data Analysis (EDA) on the California Housing 
 ---
 
 ## 📊 Dataset Description
+Dataset Source: California Housing Dataset (commonly used in Scikit-learn and available on Kaggle)
 The dataset contains demographic, geographic, and housing-related features:
 
 - median_income: Income level of households  
