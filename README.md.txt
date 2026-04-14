@@ -48,11 +48,11 @@ The dataset contains demographic, geographic, and housing-related features:
 
 ## 📊 Visualizations
 
-![Income Distribution](images/median_income_hist.png)
+![Income Distribution](images/median_income_hist)
 
-![Income vs House Price](images/income_vs_price.png)
+![Income vs House Price](images/income_vs_price)
 
-![Correlation HeatMap](images/correlation_heatmap.png)
+![Correlation HeatMap](images/correlation_heatmap)
 
 ---
 
